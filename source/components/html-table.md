@@ -56,7 +56,7 @@ If you're using `responsive` CSS class, then add `data-th="Column name"` to each
     <tr>
       <td data-th="Name">Item #2</td>
       <td data-th="Price">$8.88</td>
-      <td class="text-right">34</td>
+      <td data-th="In Stock">34</td>
     </tr>
     <tr>
       <td data-th="Name">Item #3</td>
